@@ -5,7 +5,7 @@ import Header from './src/components/Header.js';
 
 // Create a component
 const App1 = () => (
-    <Header />
+    <Header headerText={'Albums'} />
     );
 
 
